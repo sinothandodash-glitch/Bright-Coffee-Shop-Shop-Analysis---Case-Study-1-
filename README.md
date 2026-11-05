@@ -22,14 +22,14 @@ The analysis set out to answer four questions:
 4. **Presentation:** Prepared a PowerPoint presentation for the CEO and a separate methodology document.
 
 ## 3. Key Insights
-- **Top revenue products:** [product types/details and their revenue]
-- **Best-performing time of day:** [time intervals with the highest sales]
-- **Slowest time slots:** [time intervals with the lowest sales]
-- **Low-performing products:** [products/categories]
-- **Total revenue:** [amount]
+- **Top revenue products:** [product types/details and their revenue] - yet to initiate
+- **Best-performing time of day:** [time intervals with the highest sales] - yet to initiate
+- **Slowest time slots:** [time intervals with the lowest sales] - yet to initiate
+- **Low-performing products:** [products/categories] - yet to initiate
+- **Total revenue:** [amount] - yet to initiate
   
 ## Summary
-[2–3 sentences wrapping up: what you did (processed the sales data in Databricks, analysed it in Excel, presented to the CEO) and the main thing you found (e.g. top product and peak time).]
+[2–3 sentences wrapping up: what you did (processed the sales data in Databricks, analysed it in Excel, presented to the CEO) and the main thing you found (e.g. top product and peak time).] - yet to initiate
 
 ## 4. Recommendations
 - Run marketing campaigns during slow time slots
@@ -42,30 +42,12 @@ The analysis set out to answer four questions:
 - Introduce loyalty programmes based on peak customer time slots
 
 ## 6. Tools Used
-- **Miro** – project planning and architecture diagram
+- **Miro** – project planning and architecture diagram - still busy
 - **Databricks (SQL)** – data storage, transformation and analysis
 - **Microsoft Excel** – pivot tables and charts
 - **Microsoft PowerPoint** – presentation to the CEO
 - **[Power BI / Looker Studio / Databricks dashboard]** – dashboard (if used)
 - **GitHub** – version control and project documentation
 
-## 7. Repository Structure
-```
-├── README.md
-├── 01_Project_Description_and_Data/
-│   ├── Bright_Coffee_Shop_Case_Study_Description.pdf
-│   └── [raw_data].csv
-├── 02_Project_Planning/
-│   ├── Miro_Flowchart.[pdf/png]
-│   └── Gantt_Chart.[pdf/xlsx]
-├── 03_Data_Processing/
-│   ├── [bright_coffee_shop].sql
-│   └── [processed_dataset_with_pivots].xlsx
-└── 04_Presentation/
-    ├── Bright_Coffee_Shop_Presentation.pptx
-    ├── Methodology.[pdf/docx]
-    └── [dashboard link or screenshot]
-```
-
 ## 8. Dashboard
-[Add your dashboard link here, or a screenshot if it isn't public.]
+[Add your dashboard link here, or a screenshot if it isn't public.] - yet to initiate
