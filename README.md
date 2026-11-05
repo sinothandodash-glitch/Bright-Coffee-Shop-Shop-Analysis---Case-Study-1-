@@ -49,5 +49,5 @@ The analysis set out to answer four questions:
 - **[Power BI / Looker Studio / Databricks dashboard]** – dashboard (if used)
 - **GitHub** – version control and project documentation
 
-## 8. Dashboard
+## 7. Dashboard
 [Add your dashboard link here, or a screenshot if it isn't public.] - yet to initiate
