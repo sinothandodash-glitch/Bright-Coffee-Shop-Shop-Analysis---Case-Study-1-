@@ -1,7 +1,6 @@
 # Bright-Coffee-Shop-Shop-Analysis---Case-Study-1-
-End-to-end sales analysis for Bright Coffee Shop: data processing in Databricks (SQL), pivot tables and charts in Excel, Miro project planning, and a CEO presentation with recommendations to grow revenue.
 
-# Bright Coffee Shop Sales Analysis – SQL Case Study
+End-to-end sales analysis for Bright Coffee Shop: data processing in Databricks (SQL), pivot tables and charts in Excel, Miro project planning, and a CEO presentation with recommendations to grow revenue.
 
 ## 1. Overview
 Bright Coffee Shop has appointed a new CEO whose mission is to grow revenue and improve product performance. As a Junior Data Analyst, my role was to analyse the "Bright Coffee Shop Sales" dataset, which captures daily transactional data from the coffee shop, and turn it into insights the CEO can act on.
